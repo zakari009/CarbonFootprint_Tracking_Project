@@ -12,7 +12,7 @@ The Carbon Footprint Monitoring System is a customized tool devised to monitor, 
 ### Deliverable 1 - Carbon Footprint Monitoring for Businesses Project Initiation
 | Task                                         | Assigned To                  |
 |----------------------------------------------|------------------------------|
-| **Problem Identification**                   |                              |
+| **Problem Identification**                   | Laib Zakaria                 |
 | Problem/Opportunity Statement                | Laib Zakaria                |
 | Stakeholder Analysis                         | Laib Zakaria                |
 | Relevance to Software Solution               | Diaa Azzam                   |
