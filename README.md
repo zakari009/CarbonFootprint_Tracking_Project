@@ -16,7 +16,7 @@ The Carbon Footprint Monitoring System is a customized tool devised to monitor, 
 | Problem/Opportunity Statement                | Laib Zakaria                |
 | Stakeholder Analysis                         | Laib Zakaria                |
 | Relevance to Software Solution               | Diaa Azzam                   |
-| **Market Analysis**                          |                              |
+| **Market Analysis**                          |Dakshina Ravishankar                              |
 | Target Audience Identification               |                          |
 | Competitor Analysis                          | Lokesh Kommalapati (40301947)|
 | Business Values                               |                           |
@@ -29,7 +29,7 @@ The Carbon Footprint Monitoring System is a customized tool devised to monitor, 
 | Feasibility Study                            | Diaa Azzam                    |
 | Solution Proposal                            |                          |
 | Project Plan                                 | Laib Zakaria                |
-| Risk Assessment and Mitigation               |                           |
+| Risk Assessment and Mitigation               |   Dakshina Ravishankar                        |
 | Budgeting                                    | Lokesh Kommalapati (40301947)|
 
 ---
@@ -39,7 +39,8 @@ The Carbon Footprint Monitoring System is a customized tool devised to monitor, 
 |----------------------------------------------|------------------------------|
 | Introduction, Market Justification           | Laib Zakaria                |
 | Feasibility and Viability                    | Lokesh Kommalapati (40301947)|
-| Solution Highlights, Project Plan Overview   |                          |
+| Solution Highlights, Project Plan Overview   |   Dakshina Ravishankar
+|
 | Risk Management Overview, Budget Overview    |                        |
 | Closing Conclusion & Call to Action, Statistics | Diaa Azzam                |
 
