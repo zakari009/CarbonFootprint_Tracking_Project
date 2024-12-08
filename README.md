@@ -39,9 +39,10 @@ The Carbon Footprint Monitoring System is a customized tool devised to monitor, 
 |----------------------------------------------|------------------------------|
 | Introduction, Market Justification           | Laib Zakaria                |
 | Feasibility and Viability                    | Lokesh Kommalapati (40301947)|
-| Solution Highlights, Project Plan Overview   |   Dakshina Ravishankar
+| Solution Highlights, Project Plan Overview   | 
 |
-| Risk Management Overview, Budget Overview    |                        |
+| Risk Management Overview, Budget Overview    |     Dakshina Ravishankar
+|
 | Closing Conclusion & Call to Action, Statistics | Diaa Azzam                |
 
 ---
