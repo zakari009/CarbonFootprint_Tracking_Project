@@ -19,7 +19,7 @@ The Carbon Footprint Monitoring System is a customized tool devised to monitor, 
 | **Market Analysis**                          |Dakshina Ravishankar                              |
 | Target Audience Identification               |                          |
 | Competitor Analysis                          | Lokesh Kommalapati (40301947)|
-| Business Values                               |                           |
+| Business Values                               |  Vishav Teji                         |
 
 ---
 
@@ -27,7 +27,7 @@ The Carbon Footprint Monitoring System is a customized tool devised to monitor, 
 | Task                                         | Assigned To                  |
 |----------------------------------------------|------------------------------|
 | Feasibility Study                            | Diaa Azzam                    |
-| Solution Proposal                            |                          |
+| Solution Proposal                            | Vishav Teji                         |
 | Project Plan                                 | Laib Zakaria                |
 | Risk Assessment and Mitigation               |   Dakshina Ravishankar                        |
 | Budgeting                                    | Lokesh Kommalapati (40301947)|
@@ -35,15 +35,13 @@ The Carbon Footprint Monitoring System is a customized tool devised to monitor, 
 ---
 
 ### Deliverable 3 – Final Presentation
-| Task                                         | Assigned To                  |
-|----------------------------------------------|------------------------------|
-| Introduction, Market Justification           | Laib Zakaria                |
-| Feasibility and Viability                    | Lokesh Kommalapati (40301947)|
-| Solution Highlights, Project Plan Overview   | 
-|
-| Risk Management Overview, Budget Overview    |      Dakshina Ravishankar
-|
-| Closing Conclusion & Call to Action, Statistics | Diaa Azzam                |
+| Task                                         | Assigned To                   |
+|----------------------------------------------|-------------------------------|
+| Introduction, Market Justification           | Laib Zakaria                 |
+| Feasibility and Viability                    | Lokesh Kommalapati (40301947) |
+| Solution Highlights, Project Plan Overview   | Vishav Teji                   |
+| Risk Management Overview, Budget Overview    | Dakshina Ravishankar          |
+| Closing Conclusion & Call to Action, Statistics | Diaa Azzam                 |
 ---
 
 
